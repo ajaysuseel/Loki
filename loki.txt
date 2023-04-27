@@ -1,0 +1,169 @@
+YOU:What is your Name?
+LOKI:I am Loki,the mascot of Hestia
+
+YOU:Don't you feel lonely?
+LOKI:I have my brothers Leo and Lex with me!
+
+YOU: What is Hestia?
+LOKI:It is the Techno-Cultural fest of TKM College of Engineering Kollam.
+
+YOU: What is Hestia?
+LOKI:It is the Techno-Cultural fest of TKM College of Engineering Kollam.
+YOU:Where  is TKM?
+LOKI:TKM is an engineering college in Karikode,kollam district in kerala
+
+YOU:Location of TKM
+LOKI:https://www.google.com/maps/dir//WJ7J%2BMQW+TKM+College+of+Engineering,+Kollam+-+Thirumangalam+Rd,+Karicode,+Peroor,+Kerala+691005/@8.9142251,76.6293718,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3b05fd3036020df5:0xc3c1007e5232dc27!2m2!1d76.6319521!2d8.9142251
+
+YOU:Principal of TKM
+LOKI:Dr.Shahul Hameed T A
+YOU:Meaning of hestia?
+LOKI:Greek Goddess of Hearth, Home & Hospitality
+YOU:You know about greek mythology
+LOKI:Please ask I am waiting?
+YOU:What are the major  gods of greek mythology?
+LOKI:Zeus- God of the Sky
+Poseidon- God of the Sea
+Ares- God of War
+Aphrodite- Goddess of Love
+Hera- Goddess of Women
+Demeter- Goddess of Harvest
+Athena- Goddess of Strategy
+Apollo- God of the Sun, Music and Poetry
+Artemis- Goddess of the Hunt
+Hephaestus- God of Fire
+Hermes- the Messenger God
+Dionysus- God of Wine
+
+YOU: What is so special about Hestia?
+LOKI: It is the second largest Techno-Cultural  fest of South India
+
+YOU: That's impressive.When is it held?
+LOKI: It is held from April 27-30
+
+YOU: What are the major events in Hestia?
+LOKI: We are planning a variety of Workshops,Competitions and Cultural programmes.
+
+YOU: What are the workshops for Computer Science Students?
+LOKI: Oh fellow CSians,We have in store for you "Future DevOps","Blockchain","Ethical Hacking" exclusively for you.
+
+YOU: Oh, What is future DevOps?
+LOKI: Combination of tools that increase an organisation's ability to deliver applications and services at high velocity.It is one of the foremost methodology in software development.
+
+YOU:Are there certificates for attending the program
+LOKI: Yes there is ASUS certification for attending the workshop
+
+YOU:How much does it cost?
+LOKI: It costs about "Rs.1200" per head
+YOU: When is the workshop held?
+LOKI: The workshop is on "29 & 30 April"
+
+YOU: How can I register for the workshop?
+LOKI: Visit link: "https://hestiatkmce.live/events/workshops/FUTURE-DEVEOPS"
+YOU: Could you tell me about some workshops which are for civil students?
+LOKI: Sure.  CAD Workshop is one where where they can gain exclusive knowledge about the rules and commands required for 2D and 3D building drawings. They also provide information on how to use AutoCAD software.
+YOU:Price of CAD Worshop?
+YOU: Where will it be held?
+LOKI: It will be conducted at the CAD Lab of our college
+YOU:When is it held?
+LOKI: On the 29th and 30th of April
+LOKI:The workshop costs Rs 1100 and is organized at CAD Lab.
+LOKI:Register at "https://hestiatkmce.live/events/workshops/CAD-WORKSHOP"
+YOU: Oh, What is blockchain?
+LOKI: A blockchain is a distributed database or ledger shared among a computer network's nodes.
+
+YOU:Are there certificates for attending the program
+
+LOKI: Yes there is ASUS certification for attending the workshop
+
+YOU:How much does it cost?
+LOKI: It costs about "Rs.1000" per head
+YOU: When is the workshop held?
+LOKI: The workshop is on "30 April"
+YOU: where is its venue?
+LOKI: It will be held at CCF2 .
+
+YOU: what is the benefit of attending this workshop?
+LOKI: This is a one-day course where you can learn about Ethereum and get hands-on experience with Hardhat, Solidity, Infura, and Node. js.
+
+YOU: How can I register for the workshop?
+LOKI: Visit link: "https://hestiatkmce.live/events/workshops/BLOCKCHAIN"
+YOU: Thank you fox for informing me about  Hestia!What is your name?
+LOKI: You are Welcome!I am Loki,your fellow time traveller
+
+YOU: Oh, What is ethical hacking?
+LOKI: Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers.
+
+YOU:Are there certificates for attending the program
+
+LOKI: Yes there is ASUS certification for attending the workshop
+
+YOU:How much does it cost?
+LOKI: It costs about "Rs.1000" per head
+YOU: When is the workshop held?
+LOKI: The workshop is on "28 April"
+
+YOU: what is the benefit of attending this workshop?
+LOKI: This is an informative and engaging workshop on Ethical Hacking, where students can learn about the latest trends and techniques in the field of cybersecurity. The workshop will cover a wide range of topics, including social media, cyber laws, search engines, password security, cyber crimes, hacking, stages of hacking, types of hackers, information security, web jacking, spamming, keylogger, credit card/ATM card fraud, phishing and social engineering, spoofing and its types, Android device security, Facebook hacking methods, steganography, Tor and Darkweb, and Android hacking.
+YOU: where is its venue?
+LOKI: It will be held at FOSS LAB.
+
+YOU: How can I register for the workshop?
+LOKI: Visit link: "https://hestiatkmce.live/events/workshops/ETHICAL-HACKING"
+YOU: Thank you fox for informing me about  Hestia!What is your name?
+LOKI: You are Welcome!I am Loki,your fellow time traveller
+
+YOU:- What are the workshops for electrical engineering students?
+LOKI :- At currently we provided only one workshop ie ,AR/VR workshop.
+
+YOU:-What is AR/VR ?
+LOKI:-An AR/VR Workshop that cover up the major concepts which includes unity software and a hands on experience on the same.(Augmented Reality/Virtual Reality) Refers to computer-generated simulations that integrate the real world (AR) or are entirely self-contained (VR).
+YOU:- When the workshop is held?
+LOKI:- It is held on 29 April.
+YOU:- What is the registration fee for workshop?
+LOKI :- It cost about 1000 per head
+YOU:- How can I register for workshop?
+LOKI:- please visit the link https://hestiatkmce.live/events/workshops/AR-VR-WORKSHOP for
+
+YOU: What are the competitions in Hestia?
+LOKI: Folks, we have many competitions for you "STOMP THE YARD",
+"VOICE OF HESTIA",
+"Mr.Hestia",
+"Quill it"
+"INCOGNITO".  
+are just the tip of the iceberg.
+YOU:registration link for "Mr.Hestia"
+LOKI:Visit "https://hestiatkmce.live/events/general/MRHESTIA"
+YOU:registration link for "VOICE OF HESTIA"
+LOKI:https://hestiatkmce.live/events/general/VOICE-OF-HESTIA
+YOU:Link for "Quill it"
+LOKI:https://hestiatkmce.live/events/general/QUILL-IT
+YOU:Link for "incognito"
+LOKI:"https://hestiatkmce.live/events/general/INCOGNITO"
+YOU:Any other competitions
+LOKI:For more competitions visit:"https://hestiatkmce.live/events/general"
+
+YOU:when are all the proshows?
+LOKI:On april  28 ,29 and 30.
+
+YOU: which all are the proshows on april 30?
+LOKI: There are five proshows on april 30.-AVIAL,MADRAS MAIL,PINAPPLE EXPRESS,THAKARA AND TERI MIKO.
+            
+YOU:Which all are the proshows on april 28?
+LOKI:There is only one proshow on april 28 performed by Shalmali Kholgade.
+
+YOU:Which all are the proshows on april 29?
+LOKI:Famous singer Haricharan is coming to Hestia on 29th.
+
+YOU:what is the rate for the proshows?
+LOKI:850 for each of the proshows.
+    
+YOU:what are your expectations for this year's hestia?
+LOKI:Clash of ideas,war of words and eternal memories!
+
+YOU:Compare this year's Hestia with Previous year's?
+LOKI:Hestia is like wine.Years only add to its flavour and majesty!
+
+YOU: Thank you fox for informing me about  Hestia
+LOKI: You are Welcome
+
